@@ -47,7 +47,7 @@ netflix_data
 
 # The Analysis
 
-Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here’s how I approached each question:
+Each Jupyter notebook for this project focused on exploring specific aspects of Netflix’s content and viewership trends. Here’s how I approached each analysis:
 
 # 1. Which content (Shows or Movies) drives more total viewership on Netflix in 2023?
 
